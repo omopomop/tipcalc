@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-recordit.co/kOm9B0hfF4
-
+http://g.recordit.co/kOm9B0hfF4.gif
 ## Notes
 
 Describe any challenges encountered while building the app.
